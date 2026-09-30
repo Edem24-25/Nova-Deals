@@ -1,0 +1,7 @@
+[
+  {"id":"cotonou","name":"Cotonou","fee":1500,"days":"1 à 2 jours"},
+  {"id":"abomey-calavi","name":"Abomey-Calavi","fee":2000,"days":"1 à 3 jours"},
+  {"id":"porto-novo","name":"Porto-Novo","fee":2500,"days":"2 à 3 jours"},
+  {"id":"parakou","name":"Parakou","fee":3500,"days":"3 à 5 jours"},
+  {"id":"other","name":"Autre ville du Bénin","fee":3500,"days":"3 à 6 jours"}
+]

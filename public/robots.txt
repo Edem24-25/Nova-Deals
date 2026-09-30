@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /commande
+Disallow: /confirmation
+Disallow: /panier
+Disallow: /favoris
+Sitemap: /sitemap.xml

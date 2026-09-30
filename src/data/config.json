@@ -1,0 +1,16 @@
+{
+  "name": "NOVA DEALS",
+  "shortName": "NOVA",
+  "tagline": "Les prix chutent. Pas vos envies.",
+  "logo": "/assets/brand/nova-mark.svg",
+  "heroImage": "/assets/hero-cyber.jpg",
+  "publicOrigin": "",
+  "currency": "FCFA",
+  "locale": "fr-FR",
+  "contact": { "email": "bonjour@novadeals.bj", "phone": "+229 97 00 11 22", "whatsapp": "22997001122" },
+  "freeShippingThreshold": 75000,
+  "cyberMondayEndsAt": "2026-11-30T23:59:59+01:00",
+  "social": { "instagram": "https://instagram.com/novadeals.bj", "facebook": "https://facebook.com/novadeals.bj", "tiktok": "https://tiktok.com/@novadeals.bj" },
+  "analytics": { "metaPixel": "", "tiktokPixel": "", "googleAnalytics": "", "enabled": false },
+  "shipping": { "defaultDeliveryDays": "2 à 4 jours ouvrables", "returnDays": 7 }
+}

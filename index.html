@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0B0B0F" />
+    <meta name="description" content="NOVA DEALS — Les meilleures offres tech, maison et lifestyle livrées partout au Bénin." />
+    <meta name="keywords" content="Cyber Monday Bénin, boutique en ligne, FCFA, smartphone, informatique, livraison Cotonou" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="NOVA DEALS" />
+    <meta property="og:title" content="NOVA DEALS — Les prix chutent. Pas vos envies." />
+    <meta property="og:description" content="Jusqu’à -33 % sur une sélection tech, maison et lifestyle. Livraison partout au Bénin." />
+    <meta property="og:image" content="/assets/hero-cyber.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Manrope:wght@600;700;800&display=swap" rel="stylesheet" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: { ink: '#0B0B0F', panel: '#15151C', promo: '#FF3B30', accent: '#FFD60A', mist: '#F5F5F5', success: '#22C55E' },
+            fontFamily: { display: ['Manrope', 'sans-serif'], sans: ['Inter', 'sans-serif'] },
+            boxShadow: { soft: '0 18px 60px rgba(11,11,15,.08)', dark: '0 24px 70px rgba(0,0,0,.28)' }
+          }
+        }
+      };
+    </script>
+    <link rel="stylesheet" href="/src/styles.css" />
+    <title>NOVA DEALS — Les prix chutent. Pas vos envies.</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Aller au contenu</a>
+    <div id="app" class="min-h-screen"></div>
+    <div id="toast-region" class="toast-region" aria-live="polite" aria-atomic="true"></div>
+    <div id="modal-root"></div>
+    <div id="drawer-root"></div>
+    <div id="cookie-root"></div>
+    <noscript><div class="noscript">NOVA DEALS nécessite JavaScript pour afficher le catalogue et simuler votre commande.</div></noscript>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script type="module" src="/src/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,6 @@
+const listeners = new Set();
+export const route = () => ({ path: window.location.pathname.replace(/\/+$/, '') || '/', query: new URLSearchParams(window.location.search) });
+export function navigate(path) { if (path !== window.location.pathname + window.location.search) { window.history.pushState({}, '', path); } window.scrollTo({ top: 0, behavior: 'smooth' }); listeners.forEach((listener) => listener(route())); }
+export function onRoute(listener) { listeners.add(listener); return () => listeners.delete(listener); }
+export function match(pathname, pattern) { const names = []; const regex = new RegExp(`^${pattern.replace(/:[^/]+/g, (token) => { names.push(token.slice(1)); return '([^/]+)'; }).replace(/\//g, '\\/')}$`); const result = pathname.match(regex); return result ? Object.fromEntries(names.map((name, index) => [name, decodeURIComponent(result[index + 1])])) : null; }
+export function linkHandler(event) { const anchor = event.target.closest('a'); if (!anchor || anchor.target === '_blank' || anchor.hasAttribute('download') || anchor.origin !== window.location.origin) return; const href = anchor.getAttribute('href'); if (!href || href.startsWith('#') || href.startsWith('mailto:') || href.startsWith('tel:')) return; event.preventDefault(); navigate(href); }

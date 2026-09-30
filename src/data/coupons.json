@@ -1,0 +1,4 @@
+[
+  {"code":"CYBER10","type":"percent","value":10,"label":"-10 % sur votre panier","minSubtotal":30000,"active":true},
+  {"code":"BIENVENUE","type":"fixed","value":5000,"label":"-5 000 FCFA de bienvenue","minSubtotal":25000,"active":true}
+]

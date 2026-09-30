@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/</loc></url>
+  <url><loc>/boutique</loc></url>
+  <url><loc>/promotions</loc></url>
+  <url><loc>/categorie/informatique</loc></url>
+  <url><loc>/categorie/smartphones</loc></url>
+  <url><loc>/categorie/gaming</loc></url>
+  <url><loc>/categorie/audio</loc></url>
+  <url><loc>/categorie/maison</loc></url>
+  <url><loc>/categorie/mode</loc></url>
+  <url><loc>/contact</loc></url>
+  <url><loc>/faq</loc></url>
+  <url><loc>/livraison-retours</loc></url>
+  <url><loc>/cgv</loc></url>
+  <url><loc>/confidentialite</loc></url>
+</urlset>

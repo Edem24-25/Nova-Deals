@@ -1,0 +1,12 @@
+[
+  {"id":"r1","productId":"p01","name":"Aïcha K.","city":"Cotonou","rating":5,"text":"Livré le lendemain à Cotonou. Le NovaBook est léger et démarre très vite, exactement ce qu’il me fallait pour mes études.","verified":true,"date":"2026-09-18"},
+  {"id":"r2","productId":"p07","name":"David A.","city":"Abomey-Calavi","rating":5,"text":"Le téléphone est magnifique, l’appareil photo est bluffant. L’équipe a répondu sur WhatsApp en quelques minutes.","verified":true,"date":"2026-09-16"},
+  {"id":"r3","productId":"p19","name":"Mickaël S.","city":"Porto-Novo","rating":5,"text":"Très bon casque, surtout dans les taxis et au bureau. Emballage propre, livraison comme annoncée.","verified":true,"date":"2026-09-11"},
+  {"id":"r4","productId":"p25","name":"Nadège T.","city":"Cotonou","rating":4,"text":"L’air fryer est devenu indispensable à la maison. La prise en main est simple et le panier est assez grand.","verified":true,"date":"2026-09-07"},
+  {"id":"r5","productId":"p32","name":"Sessi G.","city":"Parakou","rating":5,"text":"Les sneakers taillent bien et sont confortables. Même avec la livraison à Parakou, la commande est arrivée rapidement.","verified":true,"date":"2026-09-02"},
+  {"id":"r6","productId":"p20","name":"Rachid O.","city":"Cotonou","rating":4,"text":"Bons écouteurs pour le prix, la batterie tient bien et le boîtier se glisse partout.","verified":true,"date":"2026-08-29"},
+  {"id":"r7","productId":"p13","name":"Franck H.","city":"Abomey-Calavi","rating":5,"text":"Console reçue bien protégée. Très bonne surprise pour une soirée entre amis.","verified":true,"date":"2026-08-26"},
+  {"id":"r8","productId":"p30","name":"Clara M.","city":"Cotonou","rating":4,"text":"La montre suit bien mes séances et les notifications sont pratiques. Design vraiment réussi.","verified":true,"date":"2026-08-22"},
+  {"id":"r9","productId":"p02","name":"Arnaud P.","city":"Porto-Novo","rating":5,"text":"Très bel écran pour mon bureau, couleurs fidèles et livraison sans mauvaise surprise.","verified":true,"date":"2026-08-19"},
+  {"id":"r10","productId":"p21","name":"Mariam B.","city":"Cotonou","rating":5,"text":"Le son est puissant et la batterie tient vraiment toute la journée. Je recommande.","verified":true,"date":"2026-08-13"}
+]

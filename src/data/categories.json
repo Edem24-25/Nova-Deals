@@ -1,0 +1,8 @@
+[
+  {"id":"cat-computing","slug":"informatique","name":"Informatique","description":"PC, écrans et accessoires pour travailler plus vite.","icon":"laptop","color":"#E8F0FF","image":"https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80"},
+  {"id":"cat-phone","slug":"smartphones","name":"Smartphones","description":"Les téléphones et accessoires qui suivent votre rythme.","icon":"smartphone","color":"#FFF0EC","image":"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80"},
+  {"id":"cat-gaming","slug":"gaming","name":"Gaming","description":"Équipez votre setup pour jouer sans compromis.","icon":"gamepad-2","color":"#F1EAFE","image":"https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=900&q=80"},
+  {"id":"cat-audio","slug":"audio","name":"Audio","description":"Casques, enceintes et son nomade au quotidien.","icon":"headphones","color":"#E8FAF2","image":"https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80"},
+  {"id":"cat-home","slug":"maison","name":"Maison","description":"Des objets simples pour un intérieur plus agréable.","icon":"home","color":"#FFF8DD","image":"https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?auto=format&fit=crop&w=900&q=80"},
+  {"id":"cat-fashion","slug":"mode","name":"Mode","description":"Les essentiels qui donnent du caractère à votre style.","icon":"shirt","color":"#FDEAF2","image":"https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=900&q=80"}
+]

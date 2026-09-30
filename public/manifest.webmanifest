@@ -1,0 +1,11 @@
+{
+  "name": "NOVA DEALS — Cyber Monday 2026",
+  "short_name": "NOVA DEALS",
+  "description": "Les meilleures offres tech, maison et lifestyle au Bénin.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F5F5",
+  "theme_color": "#0B0B0F",
+  "lang": "fr",
+  "icons": [{"src":"/favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}

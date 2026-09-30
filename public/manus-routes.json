@@ -1,0 +1,19 @@
+{
+  "routes": [
+    {"path":"/","title":"Accueil"},
+    {"path":"/boutique","title":"Boutique"},
+    {"path":"/promotions","title":"Promotions"},
+    {"path":"/categorie/:slug","title":"Catégorie"},
+    {"path":"/produit/:slug","title":"Produit"},
+    {"path":"/panier","title":"Panier"},
+    {"path":"/commande","title":"Commande"},
+    {"path":"/confirmation/:id","title":"Confirmation"},
+    {"path":"/favoris","title":"Favoris"},
+    {"path":"/contact","title":"Contact"},
+    {"path":"/faq","title":"FAQ"},
+    {"path":"/livraison-retours","title":"Livraison et retours"},
+    {"path":"/cgv","title":"Conditions générales"},
+    {"path":"/confidentialite","title":"Confidentialité"},
+    {"path":"/404","title":"Page introuvable"}
+  ]
+}
